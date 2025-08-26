@@ -6,8 +6,8 @@ Je devais lors de ce projet réalisé une simulation d'une ferme autosuffisante 
 Vous trouverez à l'intérieur du fichier zip un fichier txt expliquant les règles de la simulation (qui sont assez longues) ainsi que le rapport de ce projet. 
 
 
-
-**INSTRUCTION POUR LANCER LA SIMULATION**
+_______________________________________________________
+**INSTRUCTION POUR LANCER LA SIMULATION : **
 
 Ce projet a été réalisé et doit être exécuter sur Eclipse pour un bon affichage, voici comment l'exécuter :
 1. Créez un nouveau projet que vous pouvez appeler comme vous le souhaitez.
